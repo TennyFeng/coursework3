@@ -1,3 +1,3 @@
-# SurVis - Visual Literature Browser
+# My SurVis
 
-![Screenshot](/doc/survis.png)
+![Screenshot](/doc/survis2.png)
